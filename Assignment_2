@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Reality SF Book Club</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Virtual Reality Science Fiction Book Club</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Book Club Schedule</a></li>
+                <li><a href="#">Book Archive</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Join Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="intro">
+            <h2>Welcome to the Virtual Reality Science Fiction Book Club!</h2>
+            <p>Explore the future through the lens of science fiction literature with our virtual book club. Join us for thought-provoking discussions and immersive experiences.</p>
+        </section>
+        <section class="upcoming">
+            <h2>Upcoming Book Club Discussions</h2>
+            <ul>
+                <li>
+                    <h3>April 30, 2024</h3>
+                    <h4>Title: <em>The Three-Body Problem</em></h4>
+                    <p>by Liu Cixin</p>
+                    <p>Join us as we delve into this mind-bending tale of alien contact and the fate of humanity.</p>
+                </li>
+                <!-- Add more upcoming discussions here -->
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Virtual Reality Science Fiction Book Club</p>
+    </footer>
+</body>
+</html>
 
